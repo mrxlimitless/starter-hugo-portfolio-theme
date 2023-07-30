@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hugo Portfolio Theme # Website name
-baseURL: 'https://example.com/about/' # Website URL
+baseURL: 'https://hilarious-centaur-45ae0b.netlify.app/about/' # Website URL
 
 ############################
 ## PAGE OPTIONS
