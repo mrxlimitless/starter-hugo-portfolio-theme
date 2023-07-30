@@ -1,6 +1,7 @@
 ---
 title: Shivankar Madaan
 role: ""
+avatar_filename: whatsapp-image-2023-07-15-at-14.12.34-3-.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
